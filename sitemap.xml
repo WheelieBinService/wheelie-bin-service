@@ -3,50 +3,50 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.wheeliebinservice.com/home</loc>
-    <lastmod>2024-12-13</lastmod>
+    <loc>https://sites.google.com/view/wheelie-bin-service/home</loc>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Pricing Page -->
+  <!-- Blog Post -->
   <url>
-    <loc>https://www.wheeliebinservice.com/our-price</loc>
-    <lastmod>2024-12-13</lastmod>
+    <loc>https://sites.google.com/view/wheelie-bin-service/blog-post</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Manage My Service -->
+  <url>
+    <loc>https://sites.google.com/view/wheelie-bin-service/manage-my-service</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Plans & Offers -->
+  <url>
+    <loc>https://sites.google.com/view/wheelie-bin-service/plans-offers</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://sites.google.com/view/wheelie-bin-service/about-us</loc>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- About Us Page -->
+  <!-- Contact Us -->
   <url>
-    <loc>https://www.wheeliebinservice.com/about-us</loc>
-    <lastmod>2024-12-13</lastmod>
+    <loc>https://sites.google.com/view/wheelie-bin-service/contact-us</loc>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <!-- Contact Us Page -->
-  <url>
-    <loc>https://www.wheeliebinservice.com/contact-us</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Terms of Service Page -->
-  <url>
-    <loc>https://www.wheeliebinservice.com/terms-of-service</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
-  <!-- Privacy Policy Page -->
-  <url>
-    <loc>https://www.wheeliebinservice.com/privacy-policy</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
   </url>
 
 </urlset>
